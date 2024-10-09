@@ -1,0 +1,5 @@
+node_modules
+dist
+delivery-db-data
+metabase-db-data
+results
